@@ -1,6 +1,7 @@
 {
-  "name": "redux-simple-starter",
+  "name": "videoapp",
   "version": "1.0.0",
+  "repository": "https://github.com/sbowman96/videoapp.git",
   "description": "Simple starter package for Redux with React and Babel support",
   "main": "index.js",
   "scripts": {
