@@ -1,3 +1,4 @@
+const port = process..env.PORT || 8080;
 import _ from 'lodash';
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
